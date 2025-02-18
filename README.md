@@ -1,4 +1,4 @@
-[![MasterHead](https://quickops.pt/wp-content/uploads/2023/08/MicrosoftTeams-image-125.png)]
+![MasterHead](https://quickops.pt/wp-content/uploads/2023/08/MicrosoftTeams-image-125.png)
 <h1 align="center">Hi 👋, I'm Igor Povar</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
